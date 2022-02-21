@@ -1,4 +1,4 @@
-# likedinbot
+# linkedinbot
 It is often hectic to make connections on linkedin by continuously pressing the connect button again and again monotonously. Here is a way to automate it.
 ### Web driver
 Just copy paste this code on your favourite editor, make sure that you name it something as bot.py with the py extension something like that. 
