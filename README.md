@@ -1,6 +1,6 @@
 # linkedinbot
 It is often hectic to make connections on linkedin by continuously pressing the connect button again and again monotonously. Here is a way to automate it.
-### Web driver
+### Web driverr
 Just copy paste this code on your favourite editor, make sure that you name it something as bot.py with the py extension something like that. 
 Now in order to make it work you need to have a webdriver. Since I have used the chrome web driver I will tell you about that. By this I mean that the script that we are executing will only execute on google chrome because we are using the chrome webdriver. We can use others as well, but lets save it for later. 
 You can download the chrome web driver from [chromeWebdriver](https://chromedriver.chromium.org/downloads).
