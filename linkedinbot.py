@@ -12,7 +12,7 @@ time.sleep(2)
 
 username = driver.find_element_by_xpath("//input[@name='session_key']")
 password = driver.find_element_by_xpath("//input[@name='session_password']")
-#
+
 username.send_keys('your_mailid')
 password.send_keys('your_password')
 time.sleep(2)
